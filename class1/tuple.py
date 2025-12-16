@@ -1,0 +1,6 @@
+food = ("burger", "pizza", "taco")
+drink = ("coke", "pepsi", "juice")
+print(food)
+print(drink)
+print(food [0])
+print(drink [1])
